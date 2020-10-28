@@ -5,10 +5,13 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
 <url>
   <loc>https://drielelien.nl/</loc>
-  <lastmod>2020-03-09T10:58:44+00:00</lastmod>
+  <lastmod>2020-10-28T10:58:44+00:00</lastmod>
+</url>
+<url>
+  <loc>https://drielelien.nl/index-en.html</loc>
+  <lastmod>2020-10-28T11:58:44+00:00</lastmod>
 </url>
 
 </urlset>
